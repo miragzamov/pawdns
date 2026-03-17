@@ -8,13 +8,13 @@ export default function Footer() {
       <ul className="flex items-center justify-center px-5 py-1">
         <li>
           <Link
-            title="Catway DNS Github repository"
+            title="PawDNS Github repository"
             target="_blank"
-            href="https://github.com/TeaByte/catway-dns"
+            href="https://github.com/miragzamov/pawdns"
             className="hover:underline"
           >
             <strong className="text-sm font-semibold">
-              Please ⭐ us on Github!
+              Give us a ⭐ on Github!
             </strong>
           </Link>
         </li>

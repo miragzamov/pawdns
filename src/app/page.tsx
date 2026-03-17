@@ -39,12 +39,12 @@ export default async function HomePage() {
               <div className="flex w-full justify-between gap-2">
                 <Input
                   className="text-shadow-lg truncate text-center text-lg font-semibold subpixel-antialiased opacity-60"
-                  value={subDomain.subdomain + ".catway.org"}
+                  value={subDomain.subdomain + ".miragzamov.uz"}
                   readOnly
                 />
                 <Link
-                  title={`Open ${subDomain.subdomain}.catway.org`}
-                  href={`https://${subDomain.subdomain}.catway.org`}
+                  title={`Open ${subDomain.subdomain}.miragzamov.uz`}
+                  href={`https://${subDomain.subdomain}.miragzamov.uz`}
                   target="_blank"
                 >
                   <Button>
@@ -81,12 +81,12 @@ export default async function HomePage() {
             You{"'"}ve hit the subdomain limit.
             <br /> Remove one to add more or reach out at{" "}
             <Link
-              title="telegram - t.me/TeaByte"
+              title="telegram - t.me/miragzamov"
               className="underline"
-              href="https://t.me/TeaByte"
+              href="https://t.me/miragzamov"
               target="_blank"
             >
-              t.me/TeaByte
+              t.me/miragzamov
             </Link>
           </p>
         )}

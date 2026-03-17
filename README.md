@@ -1,3 +1,3 @@
-# catway-dns
+# PawDNS
 
 Simple cloudflare based DNS manager

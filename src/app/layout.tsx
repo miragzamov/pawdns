@@ -15,14 +15,14 @@ const font = Rubik({
 });
 
 export const metadata = {
-  title: "Catway DNS",
+  title: "PawDNS",
   description:
-    "Just like a cat finding its way home, Cat DNS ensures your devices and services are always reachable.",
+    "As reliable as a cat’s instinct, PawDNS ensures your network is always reachable.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
   keywords: [
     "Dynamic DNS",
     "Free DNS service",
-    "Cat DNS",
+    "PawDNS",
     "Dynamic IP address",
     "Custom subdomains",
     "DNS management",

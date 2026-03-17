@@ -15,7 +15,7 @@ export function SignInButton({
   return (
     <>
       <Button
-        className={`flex items-center gap-2 ${isAnimated && "animate-pulse"}`}
+        className={`flex items-center gap-2 ${isAnimated && "animate-bounce"}`}
         onClick={async () => {
           await signIn("github");
         }}

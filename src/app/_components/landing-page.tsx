@@ -18,15 +18,16 @@ export default async function LandingPage() {
         <Image
           draggable="false"
           title="CatWay cat logo"
-          src="/cat-logo.webp"
+          src="/paw-logo.webp"
           alt="logo"
           width={200}
           height={200}
           className="h-36 w-36"
         />
+        <h1 className="text-4xl font-bold">PawDNS</h1>
         <p className="text-center text-lg font-semibold">
-          Just like a cat finding its way home, Cat DNS ensures your devices and
-          services are always reachable.
+          As reliable as a cat’s instinct, PawDNS ensures your network is always
+          reachable.
         </p>
       </div>
       <SignInButton isAnimated>

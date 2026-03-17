@@ -9,15 +9,15 @@ export default function TopNav() {
       <nav className="flex items-center justify-between p-4">
         <div className="flex items-center gap-2">
           <Image
-            title="CatWay cat logo"
+            title="PawDNS paw logo"
             draggable="false"
-            src="/cat-logo.webp"
+            src="/paw-logo.webp"
             alt="logo"
             width={50}
             height={50}
           />
           <h1 className="text-lg font-bold md:text-2xl">
-            CatWay<span className="hidden text-primary md:inline">DNS</span>
+            Paw<span className="hidden text-primary md:inline">DNS</span>
           </h1>
         </div>
         <SessionButton />
