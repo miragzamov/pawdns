@@ -19,7 +19,6 @@ export const metadata = {
   description:
     "As reliable as a cat’s instinct, PawDNS ensures your network is always reachable.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
-  "google-site-verification": "mkrDI8xOwdjn5S_jsVO-nWx7FfrglFbIUlvmBuDZsNY",
   keywords: [
     "Dynamic DNS",
     "Free DNS service",
