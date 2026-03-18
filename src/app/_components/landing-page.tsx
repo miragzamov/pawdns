@@ -24,7 +24,7 @@ export default async function LandingPage() {
           height={200}
           className="h-36 w-36"
         />
-        <h1 className="text-4xl font-bold">PawDNS</h1>
+        <h1 className="text-4xl font-bold">Paw<span className="text-primary md:inline">DNS</span></h1>
         <p className="text-center text-lg font-semibold">
           As reliable as a cat’s instinct, PawDNS ensures your network is always
           reachable.
