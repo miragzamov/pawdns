@@ -17,7 +17,7 @@ export default function TopNav() {
             height={50}
           />
           <h1 className="text-lg font-bold md:text-2xl">
-            Paw<span className="hidden text-primary md:inline">DNS</span>
+            Paw<span className="text-primary md:inline">DNS</span>
           </h1>
         </div>
         <SessionButton />
